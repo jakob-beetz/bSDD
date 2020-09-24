@@ -19,7 +19,7 @@ kW/(m³/s),kW/(m³/s),NULL
 kg/24h,kg/24h,NULL
 g/kg,grams per kilogram,NULL
 dB(A),dB(A),NULL
-GJ/jaar,GJ/jaar,NULL
+GJ/year,GJ/year,NULL
 W/K,W/K,NULL
 mV,millivolt,NULL
 kN,kN,NULL
@@ -54,7 +54,7 @@ kJ/m²,kJ/m²,NULL
 Gbit/sec.,Gbit/sec.,NULL
 TB,terabyte,NULL
 kcmil,kcmil,NULL
-Jaar,Jaar,NULL
+Year,Year,NULL
 mW,milliwatt,NULL
 W/(m².K²),W/(m².K²),NULL
 mm/m,mm/m,NULL
